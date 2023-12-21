@@ -1,0 +1,7 @@
+D:\Project2.5\Phase1Selection3.12\Phase1Selection3.12\bin\Debug\Phase1Selection3.12.exe.config
+D:\Project2.5\Phase1Selection3.12\Phase1Selection3.12\bin\Debug\Phase1Selection3.12.exe
+D:\Project2.5\Phase1Selection3.12\Phase1Selection3.12\bin\Debug\Phase1Selection3.12.pdb
+D:\Project2.5\Phase1Selection3.12\Phase1Selection3.12\obj\Debug\Phase1Selection3.12.csproj.AssemblyReference.cache
+D:\Project2.5\Phase1Selection3.12\Phase1Selection3.12\obj\Debug\Phase1Selection3.12.csproj.CoreCompileInputs.cache
+D:\Project2.5\Phase1Selection3.12\Phase1Selection3.12\obj\Debug\Phase1Selection3.12.exe
+D:\Project2.5\Phase1Selection3.12\Phase1Selection3.12\obj\Debug\Phase1Selection3.12.pdb
